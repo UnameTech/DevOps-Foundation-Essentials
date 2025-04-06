@@ -3,7 +3,7 @@
 ---
 ---
 
-**DevOps Foundation Essentials**
+# **DevOps Foundation Essentials**
 
 Alternate name suggestions  
 - DevOps Starter Kit  
