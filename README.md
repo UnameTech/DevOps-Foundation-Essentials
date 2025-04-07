@@ -23,7 +23,7 @@ To prepare fresh graduates and non IT professionals with the essential knowledge
 # Lesson Plan  
 
 ## Section 1 - Understanding DevOps  
-**Duration** 45 minutes  
+  
 
 - What is DevOps  
 - Real world story of a developer to deployment  
@@ -111,7 +111,7 @@ Here’s the updated version:
 ---
 
 ## Section 6 - DevOps Toolchain Preview  
-**Duration** 45 minutes  
+ 
 
 ---
 
